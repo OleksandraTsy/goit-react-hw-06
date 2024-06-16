@@ -1,0 +1,26 @@
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+  font-weight: 700;
+  color: rgb(66, 66, 66);
+  font-size: 20px;
+  background-color: rgb(243, 247, 251);
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+input{
+  background-color:rgb(249, 253, 255);
+}
